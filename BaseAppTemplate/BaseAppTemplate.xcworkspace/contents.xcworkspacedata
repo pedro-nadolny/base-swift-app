@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:BaseAppTemplate/BaseAppTemplate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BaseAppTemplate/SharedModule/SharedModule.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Feature Modules">
+   </Group>
+</Workspace>
